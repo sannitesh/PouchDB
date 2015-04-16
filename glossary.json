@@ -1,0 +1,24 @@
+[
+    {
+        "_id": "1",
+        "name": "Term 1",
+        "subject": "Subject 1",
+        "tags": [
+            "tag1",
+            "tag2",
+            "tag3"
+        ],
+        "definition": "<p>Lorem ipsum text ....</p>"
+    },
+    {
+        "_id": "2",
+        "name": "Term 2",
+        "subject": "Subject 2",
+        "tags": [
+            "tag1",
+            "tag2",
+            "tag3"
+        ],
+        "definition": "<p>Lorem ipsum text ....</p>"
+    }
+]
